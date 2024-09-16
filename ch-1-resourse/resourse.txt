@@ -1,0 +1,8 @@
+
+*******************some link for programming problems & DSA****************************
+
+1.online Judge : https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=881
+2.IOI Syllabus: https://ioinformatics.org/page/syllabus/12
+3.https://acm.timus.ru/problemset.aspx ------>https://acm.timus.ru/problemset.aspx?space=1&tag=beginners
+4.https://www.codechef.com/roadmap/data-structures-and-algorithms
+4a.https://www.codechef.com/learn/course/cpp-beginner-v2-p1/BP00BC01_V2/problems/GSCV202
