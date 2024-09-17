@@ -6,3 +6,33 @@
 3.https://acm.timus.ru/problemset.aspx ------>https://acm.timus.ru/problemset.aspx?space=1&tag=beginners
 4.https://www.codechef.com/roadmap/data-structures-and-algorithms
 4a.https://www.codechef.com/learn/course/cpp-beginner-v2-p1/BP00BC01_V2/problems/GSCV202
+
+5.https://codeforces.com/catalog----------------------------------------------------------->VVI
+6.https://academy.topcoder.com/
+7.https://lightoj.com/problems/category
+8.https://www.spoj.com/
+9.https://acm.tju.edu.cn/home
+10.https://projecteuler.net/problem=1
+11.https://uhunt.onlinejudge.org/id/339
+12.http://e-maxx.ru/algo/
+13.https://www.infoarena.ro/
+14.https://hsin.hr/coci/archive/2022_2023/
+
+book:
+1.http://160592857366.free.fr/joe/ebooks/ShareData/Data%20Structures%20and%20Algorithms%20in%20C++%202e%20By%20Michael%20Goodrich,%20Roberto%20Tamassia%20and%20David%20Mount.pdf
+
+blog:
+1.https://blog.mitrichev.ch/
+2.https://blog.brucemerry.org.za/
+3.https://www.shafaetsplanet.com/?page_id=2804
+
+
+
+VVI:
+1.clock : https://www.timeanddate.com/worldclock/?sort=1
+
+
+following:
+1.
+2.
+3.
