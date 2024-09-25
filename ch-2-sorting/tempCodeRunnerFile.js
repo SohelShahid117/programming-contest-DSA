@@ -1,0 +1,3 @@
+ if(!swapped){
+        break;
+    }
